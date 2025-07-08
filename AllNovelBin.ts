@@ -1,4 +1,3 @@
-// AllNovelBin - Paperback Extension
 import {
     Source,
     Manga,
