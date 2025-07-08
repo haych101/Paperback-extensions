@@ -17,7 +17,7 @@ import {
 } from "paperback-extensions-common";
 
 export const AllNovelBinInfo: SourceInfo = {
-    version: '1.0.1',
+    version: '1.0.2',
     name: 'AllNovelBin',
     icon: 'icon.png',
     author: 'Paperback',
@@ -38,8 +38,7 @@ export const AllNovelBinInfo: SourceInfo = {
     ],
     repositoryBaseUrl: "https://github.com/haych101/Paperback-extensions",
     repositoryBranch: "main",
-    sourcePath: "/AllNovelBin.ts",
-    sponsorLink: "https://www.patreon.com/Paperback"
+    sourcePath: "/AllNovelBin.ts"
 };
 
 export class AllNovelBin extends Source {
